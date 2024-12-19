@@ -1,5 +1,6 @@
 # TheLabyrinth
 ![](TheLabyrinth.png)
+![](TheLabyrinthGrowthTest.mp4)
 
 The technocratic shell of the machine is structured as a memetic labyrinth
 Its function is to both conceal and feed the occult core which houses Moloch
